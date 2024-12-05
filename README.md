@@ -1,6 +1,7 @@
 # Hi, I'm Zain Ali 👋
 
 I am a **Software Engineer** with expertise in the following technologies:
+
 Frontend: 
 - HTML/CSS
 - JavaScript
@@ -9,6 +10,7 @@ Frontend:
 - Backend:
   - Php
   - Nodejs and Express.JS
+
 Databases
   - MySQL, Mongodb 
 ---
@@ -26,18 +28,20 @@ Databases
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainAli909192&show_icons=true&theme=radical)
 
 ## 🏆 Contribution Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainAli909192&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🌟 Projects
-- Point of Sale
+- Shopping website
 - ABLimo cab booking
 - Nizaam Trucking (Nizamtrucking.info)
-- 
+- Techfort (Techfort.ca)
+- Inventory Management System
+- Point of Sale system
 
 <!--
 **ZainAli909192/ZainAli909192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
