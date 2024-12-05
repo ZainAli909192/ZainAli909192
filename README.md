@@ -5,7 +5,8 @@ Frontend:
 - HTML/CSS
 - JavaScript
 - React.js
-Backend:
+
+- Backend:
   - Php
   - Nodejs and Express.JS
 Databases
