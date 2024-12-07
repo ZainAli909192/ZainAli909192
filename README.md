@@ -28,7 +28,7 @@ Databases
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainAli909192&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainAli909192&show_icons=true&theme=radical&include_all_commits=true)
 
 ## 🏆 Contribution Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainAli909192&theme=radical)](https://git.io/streak-stats)
