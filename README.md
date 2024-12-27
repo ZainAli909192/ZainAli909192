@@ -39,7 +39,7 @@ Databases
 - Shopping website
 - Blooming TOTS Dayhome (https://bloomingtotsdayhomes.info)
 - ABLimo cab booking
-- Nizaam Trucking (https://Nizamtrucking.info)
+- Nizaam Trucking (http://nizaamtrucking.info)
 - Techfort (https://Techfort.ca)
 - Inventory Management System
 - Point of Sale system
