@@ -3,16 +3,16 @@
 I am a **Software Engineer** with expertise in the following technologies:
 
 Frontend: 
-- HTML/CSS
-- JavaScript
-- React.js
+  - HTML/CSS
+  - JavaScript
+  - React.js
 
 Backend:
-  - Php
-  - Nodejs and Express.JS
+    - Php
+    - Nodejs and Express.JS
 
 Databases
-  - MySQL, Mongodb 
+    - MySQL, Mongodb 
 ---
 
 ## 🛠 Technologies & Tools I Work With:
@@ -43,6 +43,10 @@ Databases
 - Techfort (https://Techfort.ca)
 - Inventory Management System
 - Point of Sale system
+
+## 📊 Most Used Languages
+![Most Used Languages](https://raw.githubusercontent.com/ZainAli909192/<repository>/main/assets/image.png)
+
 
 <!--
 **ZainAli909192/ZainAli909192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
