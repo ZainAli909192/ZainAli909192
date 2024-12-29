@@ -44,10 +44,6 @@ Databases
 - Inventory Management System
 - Point of Sale system
 
-## 📊 Most Used Languages
-![Most Used Languages](https://user-images.githubusercontent.com/51340365/91925946-bec4d480-ecf3-11ea-9363-a36566c8b54e.PNG)
-
-
 <!--
 **ZainAli909192/ZainAli909192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
