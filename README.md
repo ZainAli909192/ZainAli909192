@@ -45,7 +45,7 @@ Databases
 - Point of Sale system
 
 ## 📊 Most Used Languages
-![Most Used Languages](https://raw.githubusercontent.com/ZainAli909192/<repository>/main/assets/image.png)
+![Most Used Languages](https://user-images.githubusercontent.com/51340365/91925946-bec4d480-ecf3-11ea-9363-a36566c8b54e.PNG)
 
 
 <!--
