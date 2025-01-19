@@ -42,8 +42,10 @@ Deployed work:
 - Nizaam Trucking (http://nizaamtrucking.info)
 - NotesApp (https://zainali909192.github.io/NotesApp/ )
 - Techfort (https://Techfort.ca)
-  
-- - Shopping website
+
+Undeployed work yet
+
+- Shopping website
 - Inventory Management System 
 - Point of Sale system
 
