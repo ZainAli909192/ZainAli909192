@@ -36,13 +36,14 @@ Databases
 ---
 
 ## 🌟 Projects
-- Shopping website
-- Blooming TOTS Dayhome (https://bloomingtotsdayhomes.info)
-- ABLimo cab booking (  https://ablimo.info )
-- Nizaam Trucking (http://nizaamtrucking.info)
-- NotesApp (https://zainali909192.github.io/NotesApp/ )
-- Techfort (https://Techfort.ca)
-- Inventory Management System
+Deployed work:
+    - Blooming TOTS Dayhome (https://bloomingtotsdayhomes.info)
+    - ABLimo cab booking (  https://ablimo.info )
+    - Nizaam Trucking (http://nizaamtrucking.info)
+    - NotesApp (https://zainali909192.github.io/NotesApp/ )
+    - Techfort (https://Techfort.ca)
+- - Shopping website
+- Inventory Management System 
 - Point of Sale system
 
 <!--
