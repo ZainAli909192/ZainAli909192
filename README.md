@@ -35,7 +35,7 @@ Databases
 
 ---
 
-## 🌟 Projects
+## 🌟 Projects & work
 Deployed work:
 - Blooming TOTS Dayhome (https://bloomingtotsdayhomes.info)
 - ABLimo cab booking (  https://ablimo.info )
