@@ -42,6 +42,7 @@ Deployed work:
 - Nizaam Trucking (http://nizaamtrucking.info)
 - NotesApp (https://zainali909192.github.io/NotesApp/ )
 - Techfort (https://Techfort.ca)
+- Translation Services provider (https://zainali909192.github.io/Translation/) will launch soon with official hosting
 
 Undeployed work yet
 
