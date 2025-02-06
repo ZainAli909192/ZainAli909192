@@ -8,11 +8,11 @@ Frontend:
   - React.js
 
 Backend:
-    - Php
-    - Nodejs and Express.JS
+  - Php
+  - Nodejs and Express.JS
 
 Databases
-    - MySQL, Mongodb 
+  - MySQL, Mongodb 
 ---
 
 ## 🛠 Technologies & Tools I Work With:
