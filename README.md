@@ -43,6 +43,7 @@ Deployed work:
 - NotesApp (https://zainali909192.github.io/NotesApp/ )
 - Techfort (https://Techfort.ca)
 - Translation Services provider (https://zainali909192.github.io/Translation/) will launch soon with official hosting
+- EAMS Employees Attendance Management System ( https://zainali909192.github.io/EAS/html/) will launch for a company after completion.
 
 Undeployed work yet
 
