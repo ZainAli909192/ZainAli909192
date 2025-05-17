@@ -36,12 +36,13 @@ Databases
 ---
 
 ## 🌟 Projects & work
-Deployed work:
+Deployed work (Clients work):
 - Blooming TOTS Dayhome (https://bloomingtotsdayhomes.info)
 - ABLimo cab booking (  https://ablimo.info )
 - Nizaam Trucking (http://nizaamtrucking.info)
 - NotesApp (https://zainali909192.github.io/NotesApp/ )
 - Techfort (https://Techfort.ca)
+- Forklift rental website (https://forkliftrental.site)
 - Translation Services provider (https://zainali909192.github.io/Translation/) will launch soon with official hosting
 - EAMS Employees Attendance Management System ( https://zainali909192.github.io/EAS/html/) will launch soon.
 
